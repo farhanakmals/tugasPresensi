@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas</string>
+    <string name="formatter" formatted="true">%02d</string>
+    
+    <string-array name="statuses">
+        <item>Hadir tepat waktu</item>
+        <item>Terlambat</item>
+        <item>Ijin</item>
+        <item>Sakit</item>
+    </string-array>
+</resources>
